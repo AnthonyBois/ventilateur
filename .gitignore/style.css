@@ -1,0 +1,27 @@
+*{
+	background-color: rgb(0,0,0);
+	color: white;
+}
+
+h1{
+	text-align: center;
+}
+
+img{
+	width:25%;
+}
+
+ul {
+  position: fixed;
+  top: 80px;
+  left: 10px;
+}
+
+.content {
+  margin-left: 250px;
+  display: inline-block;
+}
+
+.box{
+	
+}
